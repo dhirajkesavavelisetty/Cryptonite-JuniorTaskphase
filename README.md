@@ -29,6 +29,11 @@ This is a learning repo focused on building fundamentals in capture the flag cha
 - Selected Reverse Engineering and Cryptography as my domains of interest and solved 10 custom challenges curated by the mentors.
 - These were challenging as compared to the previous ones and required a high amount of problem-solving and analytical thinking 
 
+##### TryHackme - AdventOfCyber'25
+- Participated in Advent of Cyber 2025 hosted by TryHackMe
+- Completed daily security challenges covering multiple cybersecurity fundamentals
+- [Advent'25](https://tryhackme.com/adventofcyber25)
+
 
 #### 🧩Main CTFS
 
@@ -39,7 +44,6 @@ This is a learning repo focused on building fundamentals in capture the flag cha
 #### NiteCTF
 - Participated in Nite CTF, an international CTF played worldwide
 - Exposure to real-world difficulty and competition
-
 
 
 
