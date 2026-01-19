@@ -15,8 +15,7 @@ This is a learning repo focused on building fundamentals in capture the flag cha
 ##### OverTheWire-Bandit
 - Brushed through levels 0-33
 - Learned Linux commands, file permissions, SSH usage, and scripting concepts
--[OverTheWire](https://overthewire.org/wargames/bandit/)
-
+- [OverTheWire](https://overthewire.org/wargames/bandit/)
 
 
 #### 🧩Task 2: CTF challenges
@@ -28,7 +27,30 @@ This is a learning repo focused on building fundamentals in capture the flag cha
 
 ##### Custom Mentor Challenges
 - Selected Reverse Engineering and Cryptography as my domains of interest and solved 10 custom challenges curated by the mentors.
-- These were challenging as compared to the previous ones and required a high amount of problem-solving and analytical thinking
+- These were challenging as compared to the previous ones and required a high amount of problem-solving and analytical thinking 
 
-- 
 
+#### 🧩Main CTFS
+
+##### CitadelCTF
+- Participated in Citadel CTF organized by Cryptonite
+- Applied learned concepts in a competitive environment
+  
+#### NiteCTF
+- Participated in Nite CTF, an international CTF played worldwide
+- Exposure to real-world difficulty and competition
+
+
+
+
+#### Learnings
+- Various approaches to solving CTF challenges
+- Improved understanding of common system vulnerabilities
+- Importance of documentation for later reference
+- Working under time constraints in a competitive environment
+
+#### Skills
+- Linux command lines
+- CTF solving approaches
+- Documentation and GitHub
+- Cybersecurity fundamentals
